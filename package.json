@@ -21,12 +21,12 @@
   ],
   "private": true,
   "resolutions": {
-    "**/@babel/parser": "^7.7.7"
+    "**/@babel/parser": "^7.12.3"
   },
   "dependencies": {
-    "@babel/cli": "^7.7.7",
-    "@babel/core": "^7.7.7",
-    "@babel/parser": "^7.7.7",
+    "@babel/cli": "^7.12.1",
+    "@babel/core": "^7.12.3",
+    "@babel/parser": "^7.12.3",
     "@babel/plugin-proposal-class-properties": "^7.7.4",
     "@babel/plugin-proposal-object-rest-spread": "^7.7.7",
     "@babel/plugin-transform-runtime": "^7.7.6",

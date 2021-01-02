@@ -1,0 +1,8 @@
+{
+  "name": "long-dependency-chain",
+  "main": "dist/long-dependency-chain.cjs.js",
+  "module": "dist/long-dependency-chain.esm.js",
+  "scripts": {
+    "preconstruct": "node ../../packages/cli/cli"
+  }
+}

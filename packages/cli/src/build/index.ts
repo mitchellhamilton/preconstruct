@@ -162,7 +162,6 @@ export default async function build(directory: string) {
         }
       })
     );
-
     if (errors.length) {
       throw new BatchError(
         errors.sort((a, b) =>
